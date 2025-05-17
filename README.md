@@ -1,4 +1,4 @@
-Comment to complete this task are as follows.
+Commmand to complete this task are as follows.
 
 task 3:
 
